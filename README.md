@@ -31,12 +31,13 @@ Add a function that would format the color coding in a form that someone can pri
 Also resolve any coding guideline violations.
 
 File Structure
-1.color_mapping.h: Header file containing declarations for color mappings.
-2.color_mapping.c: Source file containing the color mappings.
-3.color_pair.h: Header file containing declarations for color pair operations.
-4.color_pair.c: Source file containing the color pair operations.
-5.color_reference_manual.h: Header file containing declarations for the reference manual generation.
-6.color_reference_manual.c: Source file for generating the reference manual.
-7.color_tests.h: Header file containing declarations for tests.
-8.color_tests.c: Source file for tests.
-9.main.c: Main source file to run the program.
+
+ 1.color_mapping.h: Header file containing declarations for color mappings.
+ 2.color_mapping.c: Source file containing the color mappings.
+ 3.color_pair.h: Header file containing declarations for color pair operations.
+ 4.color_pair.c: Source file containing the color pair operations.
+ 5.color_reference_manual.h: Header file containing declarations for the reference manual generation.
+ 6.color_reference_manual.c: Source file for generating the reference manual.
+ 7.color_tests.h: Header file containing declarations for tests.
+ 8.color_tests.c: Source file for tests.
+ 9.main.c: Main source file to run the program.
